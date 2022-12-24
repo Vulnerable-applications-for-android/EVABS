@@ -1,9 +1,9 @@
-set(CMAKE_HOST_SYSTEM "Darwin-18.7.0")
-set(CMAKE_HOST_SYSTEM_NAME "Darwin")
-set(CMAKE_HOST_SYSTEM_VERSION "18.7.0")
+set(CMAKE_HOST_SYSTEM "Linux-5.15.0-56-generic")
+set(CMAKE_HOST_SYSTEM_NAME "Linux")
+set(CMAKE_HOST_SYSTEM_VERSION "5.15.0-56-generic")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
-include("/Users/abhishekjm/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake")
+include("/home/shivam/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake")
 
 set(CMAKE_SYSTEM "Android-1")
 set(CMAKE_SYSTEM_NAME "Android")
