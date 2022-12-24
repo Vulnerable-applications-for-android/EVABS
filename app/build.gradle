@@ -30,7 +30,7 @@ android {
         cmake {
             path "CMakeLists.txt"
         }
-    Androidndk = 20.1.5948944
+        android.ndkVersion  = "20.1.5948944"
     }
     productFlavors {
     }
