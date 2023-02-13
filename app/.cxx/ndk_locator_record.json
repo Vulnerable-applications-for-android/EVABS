@@ -1,13 +1,13 @@
 {
-  "ndkFolder": "/home/shivam/Android/Sdk/ndk/20.1.5948944",
+  "ndkFolder": "/home/shivam/Android/Sdk/ndk/23.2.8568313",
   "messages": [
     {
       "level": "INFO",
-      "message": "android.ndkVersion from module build.gradle is not set"
+      "message": "android.ndkVersion from module build.gradle is 23.2.8568313"
     },
     {
       "level": "INFO",
-      "message": "ndk.dir in local.properties is /home/shivam/Android/Sdk/ndk/20.1.5948944"
+      "message": "ndk.dir in local.properties is /home/shivam/Android/Sdk/ndk/23.2.8568313"
     },
     {
       "level": "INFO",
@@ -19,7 +19,7 @@
     },
     {
       "level": "INFO",
-      "message": "Considering /home/shivam/Android/Sdk/ndk/20.1.5948944 by ndk.dir"
+      "message": "Considering /home/shivam/Android/Sdk/ndk/23.2.8568313 by ndk.dir"
     },
     {
       "level": "INFO",
@@ -75,7 +75,7 @@
     },
     {
       "level": "INFO",
-      "message": "Found requested ndk.dir (/home/shivam/Android/Sdk/ndk/20.1.5948944) which has version 20.1.5948944"
+      "message": "Choosing /home/shivam/Android/Sdk/ndk/23.2.8568313 from ndk.dir which had the requested version 23.2.8568313"
     }
   ]
 }

@@ -13,8 +13,8 @@
       "buildSystem": "CMAKE",
       "compilerSettingsCacheFolder": "/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/.cxx",
       "cxxFolder": "/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/.cxx",
-      "ndkFolder": "/home/shivam/Android/Sdk/ndk/20.1.5948944",
-      "ndkVersion": "20.1.5948944",
+      "ndkFolder": "/home/shivam/Android/Sdk/ndk/23.2.8568313",
+      "ndkVersion": "23.2.8568313",
       "ndkSupportedAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",

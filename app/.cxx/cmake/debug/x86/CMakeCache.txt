@@ -18,13 +18,13 @@
 ANDROID_ABI:UNINITIALIZED=x86
 
 //No help, variable specified on the command line.
-ANDROID_NDK:UNINITIALIZED=/home/shivam/Android/Sdk/ndk/20.1.5948944
+ANDROID_NDK:UNINITIALIZED=/home/shivam/Android/Sdk/ndk/23.2.8568313
 
 //No help, variable specified on the command line.
 ANDROID_PLATFORM:UNINITIALIZED=android-16
 
 //Archiver
-CMAKE_AR:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-ar
+CMAKE_AR:FILEPATH=/home/shivam/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ar
 
 //Flags used by the compiler during all build types.
 CMAKE_ASM_FLAGS:STRING=
@@ -102,7 +102,7 @@ CMAKE_INSTALL_PREFIX:PATH=/usr/local
 CMAKE_LIBRARY_OUTPUT_DIRECTORY:UNINITIALIZED=/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/build/intermediates/cmake/debug/obj/x86
 
 //Path to a program.
-CMAKE_LINKER:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-ld
+CMAKE_LINKER:FILEPATH=CMAKE_LINKER-NOTFOUND
 
 //No help, variable specified on the command line.
 CMAKE_MAKE_PROGRAM:UNINITIALIZED=/home/shivam/Android/Sdk/cmake/3.6.4111459/bin/ninja
@@ -123,19 +123,19 @@ CMAKE_MODULE_LINKER_FLAGS_RELEASE:STRING=
 CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
 //Path to a program.
-CMAKE_NM:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-nm
+CMAKE_NM:FILEPATH=CMAKE_NM-NOTFOUND
 
 //Path to a program.
-CMAKE_OBJCOPY:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-objcopy
+CMAKE_OBJCOPY:FILEPATH=CMAKE_OBJCOPY-NOTFOUND
 
 //Path to a program.
-CMAKE_OBJDUMP:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-objdump
+CMAKE_OBJDUMP:FILEPATH=CMAKE_OBJDUMP-NOTFOUND
 
 //Value Computed by CMake
 CMAKE_PROJECT_NAME:STATIC=Project
 
 //Ranlib
-CMAKE_RANLIB:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-ranlib
+CMAKE_RANLIB:FILEPATH=/home/shivam/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib
 
 //Flags used by the linker during the creation of dll's.
 CMAKE_SHARED_LINKER_FLAGS:STRING=
@@ -174,11 +174,11 @@ CMAKE_STATIC_LINKER_FLAGS_RELEASE:STRING=
 //Flags used by the linker during Release with Debug Info builds.
 CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
-//Path to a program.
-CMAKE_STRIP:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/i686-linux-android-strip
+//Strip
+CMAKE_STRIP:FILEPATH=/home/shivam/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-strip
 
 //The CMake toolchain file
-CMAKE_TOOLCHAIN_FILE:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/build/cmake/android.toolchain.cmake
+CMAKE_TOOLCHAIN_FILE:FILEPATH=/home/shivam/Android/Sdk/ndk/23.2.8568313/build/cmake/android.toolchain.cmake
 
 //If this value is on, makefiles will be generated without the
 // .SILENT directive, and all commands will be echoed to the console
@@ -193,10 +193,10 @@ Project_BINARY_DIR:STATIC=/home/shivam/Work/Vulnerable-applications-for-android/
 Project_SOURCE_DIR:STATIC=/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app
 
 //Path to a library.
-log-lib:FILEPATH=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so
+log-lib:FILEPATH=/home/shivam/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so
 
 //Dependencies for the target
-native-lib_LIB_DEPENDS:STATIC=general;/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so;
+native-lib_LIB_DEPENDS:STATIC=general;/home/shivam/Android/Sdk/ndk/23.2.8568313/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/16/liblog.so;
 
 
 ########################
