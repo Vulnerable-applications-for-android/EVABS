@@ -1,7 +1,7 @@
 Executable : /home/shivam/Android/Sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
 --build
-/home/shivam/Apps/EVABS/app/.cxx/cmake/debug/armeabi-v7a
+/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/.cxx/cmake/debug/armeabi-v7a
 --target
 native-lib
 jvmArgs : 

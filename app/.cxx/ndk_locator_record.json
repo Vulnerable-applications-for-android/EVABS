@@ -35,6 +35,18 @@
     },
     {
       "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/18.1.5063045 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/19.2.5345600 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/20.0.5594570 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
       "message": "Considering /home/shivam/Android/Sdk/ndk/17.2.4988734-2 in SDK ndk folder"
     },
     {
@@ -56,6 +68,10 @@
     {
       "level": "INFO",
       "message": "Considering /home/shivam/Android/Sdk/ndk/21.0.6113669 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/23.2.8568313 in SDK ndk folder"
     },
     {
       "level": "INFO",
