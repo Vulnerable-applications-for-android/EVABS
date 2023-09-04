@@ -1,9 +1,12 @@
 
 {
-	"buildFiles" : [ "/Users/abhishekjm/AndroidStudioProjects/EVABS/app/CMakeLists.txt" ],
+	"buildFiles" : 
+	[
+		"/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/CMakeLists.txt"
+	],
 	"cleanCommands" : 
 	[
-		"/Users/abhishekjm/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/abhishekjm/AndroidStudioProjects/EVABS/app/.cxx/cmake/debug/armeabi-v7a --target clean"
+		"/home/shivam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/.cxx/cmake/debug/armeabi-v7a --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -12,27 +15,27 @@
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "native-lib",
-			"buildCommand" : "/Users/abhishekjm/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/abhishekjm/AndroidStudioProjects/EVABS/app/.cxx/cmake/debug/armeabi-v7a --target native-lib",
+			"buildCommand" : "/home/shivam/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/.cxx/cmake/debug/armeabi-v7a --target native-lib",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/abhishekjm/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/abhishekjm/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "/Users/abhishekjm/AndroidStudioProjects/EVABS/app/src/main/cpp/native-lib.cpp",
-					"workingDirectory" : "/Users/abhishekjm/AndroidStudioProjects/EVABS/app/.cxx/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/.cxx/cmake/debug/armeabi-v7a"
 				}
 			],
-			"output" : "/Users/abhishekjm/AndroidStudioProjects/EVABS/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
-			"toolchain" : "8843230807477252055"
+			"output" : "/home/shivam/Work/Vulnerable-applications-for-android/Apps_Source/EVABS/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "17185574827018101297"
 		}
 	},
 	"toolchains" : 
 	{
-		"8843230807477252055" : 
+		"17185574827018101297" : 
 		{
-			"cCompilerExecutable" : "/Users/abhishekjm/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
-			"cppCompilerExecutable" : "/Users/abhishekjm/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+			"cCompilerExecutable" : "/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/shivam/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
 		}
 	}
 }

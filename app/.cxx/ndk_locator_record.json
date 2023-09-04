@@ -1,13 +1,13 @@
 {
-  "ndkFolder": "/Users/abhishekjm/Library/Android/sdk/ndk-bundle",
+  "ndkFolder": "/home/shivam/Android/Sdk/ndk/23.2.8568313",
   "messages": [
     {
       "level": "INFO",
-      "message": "android.ndkVersion from module build.gradle is not set"
+      "message": "android.ndkVersion from module build.gradle is 23.2.8568313"
     },
     {
       "level": "INFO",
-      "message": "ndk.dir in local.properties is /Users/abhishekjm/Library/Android/sdk/ndk-bundle"
+      "message": "ndk.dir in local.properties is /home/shivam/Android/Sdk/ndk/23.2.8568313"
     },
     {
       "level": "INFO",
@@ -15,19 +15,67 @@
     },
     {
       "level": "INFO",
-      "message": "sdkFolder is /Users/abhishekjm/Library/Android/sdk"
+      "message": "sdkFolder is /home/shivam/Android/Sdk"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/abhishekjm/Library/Android/sdk/ndk-bundle by ndk.dir"
+      "message": "Considering /home/shivam/Android/Sdk/ndk/23.2.8568313 by ndk.dir"
     },
     {
       "level": "INFO",
-      "message": "Considering /Users/abhishekjm/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+      "message": "Considering /home/shivam/Android/Sdk/ndk-bundle in SDK ndk-bundle folder"
     },
     {
       "level": "INFO",
-      "message": "Found requested ndk.dir (/Users/abhishekjm/Library/Android/sdk/ndk-bundle) which has version 20.1.5948944"
+      "message": "Considering /home/shivam/Android/Sdk/ndk/21.3.6528147 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/21.4.7075529 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/18.1.5063045 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/19.2.5345600 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/20.0.5594570 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/17.2.4988734-2 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/20.1.5948944 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/21.1.6352462 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/24.0.8215888 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/17.2.4988734 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/21.0.6113669 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /home/shivam/Android/Sdk/ndk/23.2.8568313 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Choosing /home/shivam/Android/Sdk/ndk/23.2.8568313 from ndk.dir which had the requested version 23.2.8568313"
     }
   ]
 }
